@@ -19,7 +19,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "buildrun": "serve -s build -l 3000",
+    "buildrun": "serve -s build -l 3001",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
